@@ -1,3 +1,4 @@
+@run
 Feature: Login Into OHRM website
 
 Scenario: Orange HRMS login and logout 
